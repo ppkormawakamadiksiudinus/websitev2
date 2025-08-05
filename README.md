@@ -1,4 +1,4 @@
-# Website Permata Klepu - Sekolah Perempuan PPKO KAMADIKSI UDINUS
+# Website Permata Klepu - Sekolah Perempuan PPK Ormawa KAMADIKSI UDINUS
 
 ![Permata Klepu](./img/permata.png)
 
