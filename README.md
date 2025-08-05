@@ -38,30 +38,12 @@ Website ini dibangun dengan teknologi _front-end_ dasar dan tidak memerlukan pro
 
 1.  **Clone Repositori Ini**
     ```bash
-    # Ganti [URL-REPOSITORI-ANDA] dengan URL repositori Git Anda
-    git clone [URL-REPOSITORI-ANDA]
+    # https://github.com/ppkormawakamadiksiudinus/websitev2.git
+    git clone https://github.com/ppkormawakamadiksiudinus/websitev2.git
     ```
 
-2.  **Masuk ke Direktori Proyek**
-    ```bash
-    cd [nama-direktori-proyek]
-    ```
-
-3.  **Buka File `index.html`**
-    Langsung buka file `index.html` pada browser favorit Anda (Google Chrome, Firefox, dll.). Anda juga bisa menggunakan ekstensi seperti "Live Server" di Visual Studio Code untuk melihat perubahan secara langsung.
-
-## 📂 Struktur File
-├── img/
-│   ├── LogoUdinus.png
-│   ├── kamadiksi.jpg
-│   ├── permata.png
-│   └── ... (gambar lainnya)
-├── index.html          # File utama struktur halaman
-├── script.js           # Kode JavaScript untuk interaktivitas
-├── styles.css          # Styling umum dan untuk mobile (max-width: 768px)
-├── styles-desktop.css  # Styling khusus untuk desktop
-├── styles-mobile.css   # Styling khusus untuk mobile (redundant dengan styles.css)
-└── README.md           # Anda di sini
+2.  **Buka File `index.html`**
+    Langsung buka file `index.html` pada browser Anda (Google Chrome, Firefox, dll.). Anda juga bisa menggunakan ekstensi seperti "Live Server" di Visual Studio Code untuk melihat perubahan secara langsung.
 
 ## 📬 Kontak
 
